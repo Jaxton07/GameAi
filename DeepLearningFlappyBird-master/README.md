@@ -5,8 +5,8 @@
 ### 注意：项目中的目录要改成自己的
 
 ## Installation Dependencies(安装依赖库):
-* Python 2.7 or 3
-* TensorFlow 1.14
+* Python  3
+* TensorFlow 2.0
 * pygame
 * OpenCV-Python
 
