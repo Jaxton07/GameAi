@@ -1,0 +1,6 @@
+model_checkpoint_path: "flappy_bird_dqn-5090000"
+all_model_checkpoint_paths: "flappy_bird_dqn-5050000"
+all_model_checkpoint_paths: "flappy_bird_dqn-5060000"
+all_model_checkpoint_paths: "flappy_bird_dqn-5070000"
+all_model_checkpoint_paths: "flappy_bird_dqn-5080000"
+all_model_checkpoint_paths: "flappy_bird_dqn-5090000"
